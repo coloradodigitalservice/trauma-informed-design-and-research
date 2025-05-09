@@ -83,7 +83,7 @@ _(Source: “Helping survivors to feel safe during UX research”)_
   _E.g., geographic or resource-based diversity_
 
 - ✅ **Use inclusive language**  
-  _Refer to Colorado BHA Content Standards_
+  
 
 - ✅ **Be transparent about research topics**  
   _List what will and won’t be discussed_
