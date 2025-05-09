@@ -154,8 +154,7 @@ _(Sources: “Helping survivors to feel safe during UX research”; team notes)_
 
 ### Trauma-Informed Practices and Principles
 
-Additional principles:
-
+**Additional principles:**
 - Accountability  
 - Hope  
 - Equity and Plurality  
