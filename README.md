@@ -124,7 +124,7 @@ _(Source: “Helping survivors to feel safe during UX research”)_
 
 ## Interview Follow-Up
 
-_(Sources: “Helping survivors to feel safe during UX research”; TaDa team notes)_
+_(Sources: “Helping survivors to feel safe during UX research”; team notes)_
 
 - ✅ **Check in with distressed participants**  
   _Follow up the next day, reflect, show appreciation_
