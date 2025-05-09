@@ -56,7 +56,7 @@ Trauma results from events or circumstances that are perceived as physically or 
 5. Empowerment, Voice and Choice  
 6. Cultural, Historical, and Gender Issues  
 
-[Read more here (p. 10–11)](https://ncsacw.acf.hhs.gov/userfiles/files/SAMHSA_Trauma.pdf)
+[Read more here (p. 16)](https://library.samhsa.gov/sites/default/files/pep23-06-05-005.pdf)
 
 ---
 
