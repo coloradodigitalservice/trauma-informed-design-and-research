@@ -147,7 +147,7 @@ _(Sources: “Helping survivors to feel safe during UX research”; team notes)_
 | Repository | [TIDResources.org](https://www.tidresources.org/) | Trauma-Informed Design Group |
 | Article | [To Build Gentler Technology, Practice Trauma-Informed Design](https://medium.com/care-code/to-build-gentler-technology-practice-trauma-informed-design-3b4ad34a9f0b) | — |
 | Blog | [Combating Access Trauma](https://robertkingett.com/posts/6617/) | Personal blog on accessibility PTSD |
-| Article | [IT warning banners: How GSA is working to stop unnecessarily frightening users](IT warning banners: How GSA is working to stop unnecessarily frightening users) | More technical / design-y, but an interesting angle to consider! |
+| Article | [IT warning banners: How GSA is working to stop unnecessarily frightening users](https://digital.gov/2024/08/07/it-warning-banners-how-gsa-is-working-to-stop-unnecessarily-frightening-users/?) | More technical / design-y, but an interesting angle to consider! |
 ---
 
 ## Appendix
