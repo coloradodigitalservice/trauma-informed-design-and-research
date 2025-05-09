@@ -1,6 +1,6 @@
 # Trauma-Informed Research and Design
 
-_Last updated Apr 17, 2025_  
+_Last updated May 9, 2025_  
 **Written by Alex Orlov (<alexandra.orlov@state.co.us>), Bianca Frazer, and Abigail Fisher**  
 
 > **Note**: This document was originally created by researchers and designers at Colorado’s Behavioral Health Administration (BHA). However, the information and resources can be applicable to anyone looking to practice trauma-informed research and design. The content has been lightly edited to suit a wider audience. — Jane Lien  
