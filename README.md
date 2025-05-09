@@ -143,12 +143,11 @@ _(Sources: “Helping survivors to feel safe during UX research”; team notes)_
 
 | **Type** | **Resource** | **Notes** |
 |----------|--------------|-----------|
-| Article | [Trauma Responsiveness in Participatory Research](https://tidresources.org/) | Shared by BHA contractor Manali Mohanty |
-| Blog | [Helping survivors to feel safe during UX research](https://medium.com) | Very tactical |
+| Blog | [Helping survivors to feel safe during UX research](https://blog.chayn.co/keeping-survivors-safe-during-ux-research-eb20c1ee1f04) | Very tactical |
 | Repository | [TIDResources.org](https://www.tidresources.org/) | Trauma-Informed Design Group |
-| Article | [To Build Gentler Technology, Practice Trauma-Informed Design](https://example.com) | — |
-| Blog | [Combating Access Trauma](https://example.com) | Personal blog on accessibility PTSD |
-
+| Article | [To Build Gentler Technology, Practice Trauma-Informed Design](https://medium.com/care-code/to-build-gentler-technology-practice-trauma-informed-design-3b4ad34a9f0b) | — |
+| Blog | [Combating Access Trauma](https://robertkingett.com/posts/6617/) | Personal blog on accessibility PTSD |
+| Article | [IT warning banners: How GSA is working to stop unnecessarily frightening users](IT warning banners: How GSA is working to stop unnecessarily frightening users) | More technical / design-y, but an interesting angle to consider! |
 ---
 
 ## Appendix
